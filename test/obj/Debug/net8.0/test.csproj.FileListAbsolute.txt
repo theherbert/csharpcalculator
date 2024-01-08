@@ -1,0 +1,14 @@
+/Users/cesariokufner/test/bin/Debug/net8.0/test
+/Users/cesariokufner/test/bin/Debug/net8.0/test.deps.json
+/Users/cesariokufner/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/cesariokufner/test/bin/Debug/net8.0/test.dll
+/Users/cesariokufner/test/bin/Debug/net8.0/test.pdb
+/Users/cesariokufner/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesariokufner/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/cesariokufner/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/cesariokufner/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/cesariokufner/test/obj/Debug/net8.0/test.dll
+/Users/cesariokufner/test/obj/Debug/net8.0/refint/test.dll
+/Users/cesariokufner/test/obj/Debug/net8.0/test.pdb
+/Users/cesariokufner/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/cesariokufner/test/obj/Debug/net8.0/ref/test.dll
